@@ -1,4 +1,4 @@
-module github.com/qrng-api/go-sdk
+module github.com/harshadptl/go-sdk
 
 go 1.20
 
